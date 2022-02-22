@@ -24,15 +24,6 @@ export const TextBigger = styled.div`
   padding-bottom: "";
 `
 
-export const BorderedContainer = styled.div`
-  border: var(--border);
-`
-
-export const BorderedRoundedContainer = styled.div`
-  border: var(--border);
-  width: ${props => props.instantBookable ? "17.6rem" : "15.6rem"};
-  height: ${props => props.carType ? "8.8rem" : "4.8rem"};
-`
 export const FlexRow = styled.div`
   display: flex;
   flex-wrap: wrap;
