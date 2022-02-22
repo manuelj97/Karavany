@@ -4,10 +4,10 @@ Cílem tohoto projektu bylo vytvořit webovou aplikaci, která zobrazuje karavna
 
 ## Použité technologie a knihovny
 
-Next
-React
-Styled Components
-Material UI pro slider cen
+Next **Enter**
+React **Enter**
+Styled Components **Enter**
+Material UI pro slider cen **Enter**
 React-responsive-carousel pro ukázku obrázků
 
 ## Design aplikace
