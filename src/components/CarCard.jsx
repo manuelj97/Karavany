@@ -1,6 +1,5 @@
 import React from 'react'
 import styled from "styled-components"
-import Image from 'next/image'
 import { TextBigger, TextSmaller } from './LayoutComponents'
 import { Carousel } from 'react-responsive-carousel'
 import "react-responsive-carousel/lib/styles/carousel.min.css";
