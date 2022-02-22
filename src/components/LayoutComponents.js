@@ -17,6 +17,10 @@ export const TextSmaller = styled.div`
   letter-spacing: ${props => props.vehicleType ? ".1rem" : "0"};
 `
 
+export const BorderedContainer = styled.div`
+  border: var(--border);
+`
+
 export const TextBigger = styled.div`
   font-size: 2.4rem;
   font-weight: 800;
