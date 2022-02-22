@@ -4,7 +4,6 @@ import styled from 'styled-components'
 import { Text } from '../LayoutComponents'
 
 const MIN = 0
-const MAX = 99999
 
 export default function Price({priceFrom, setPriceFrom, priceTo, setPriceTo}) {
   return (
