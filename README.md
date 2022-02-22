@@ -2,7 +2,7 @@
 
 Cílem tohoto projektu bylo vytvořit webovou aplikaci, která zobrazuje karavnay fetchnuté z json souboru, které si uživatel může vyfiltrovat podle svých preferencí. Projekt zároveň sloužil jako úkolové zadání, které bylo součástí výběrového řízení na pozici programátora.
 
-## Použité technologie a knihovny
+## Použité technologie
 
 Next
 React
