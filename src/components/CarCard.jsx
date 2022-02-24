@@ -31,7 +31,6 @@ export default function CarCard({ data }) {
 }
 
 const Center = styled.div`
-
   place-content: center;
 `
 
