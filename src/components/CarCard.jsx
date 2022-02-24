@@ -12,8 +12,8 @@ export default function CarCard({ data }) {
               return (
                   <CardContainer key={i}>
                     <Carousel>  
-                    {item.pictures.map((picture, i) => 
-                        <img src={picture} alt="" />
+                    {item.pictures.map((picture, j) => 
+                        <img src={picture} alt="Car Card Picture" key={j} />
                     )}
                     </Carousel>
                     <TextSmaller vehicleType>
