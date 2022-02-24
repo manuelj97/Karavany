@@ -64,7 +64,6 @@ export default function Home() {
             priceTo={priceTo} 
             setPriceFrom={setPriceFrom} 
             setPriceTo={setPriceTo} 
-            setPriceFrom={setPriceFrom} 
             setCarType={setCarType} 
             setInstantBookable={setInstantBookable} 
             instantBookable={instantBookable}
